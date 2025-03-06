@@ -63,8 +63,8 @@ Initial release:
 
 ## Contributing
 
-Found a bug or have a feature request? Please open an issue on the [GitHub repository](your-repo-url-here).
+Found a bug or have a feature request? Please open an issue on the [GitHub repository](https://github.com/vnestoruk/ssh-terminal).
 
 ## License
 
-This extension is licensed under the [MIT License](LICENSE).
+This extension is licensed under the [MIT License](https://github.com/vnestoruk/ssh-terminal/blob/main/LICENSE).
